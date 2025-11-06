@@ -48,61 +48,63 @@
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**
-   ```bash
+   
    git clone https://github.com/yourusername/Online_Elearning_Platform.git
    cd Online_Elearning_Platform
-Install Dependencies
 
-bash
-Copy code
+2. **Install Dependencies**
 npm install
 cd client && npm install
-Environment Variables
+
+3. **Environment Variables**
+
 Create a .env file in the root directory and include:
 
-ini
-Copy code
 MONGO_URI=<your_mongodb_uri>
 JWT_SECRET=<your_secret>
 OPENAI_API_KEY=<your_openai_api_key>
-Run the Application
 
-bash
-Copy code
+
+4. **Run the Application**
+
 # Start backend
 npm run server
 
 # Start frontend
 cd client && npm start
-Access
+
+
+5. **Access**
 Open http://localhost:3000 in your browser.
 
-🧠 Future Enhancements
-Real-time video lectures with AI-assisted note summaries
 
-Emotion recognition for adaptive teaching
 
-Voice-based commands and speech-to-text input
+**🧠 Future Enhancements**
+1. Real-time video lectures with AI-assisted note summaries
 
-AI plagiarism detection for assignments
+2. Emotion recognition for adaptive teaching
 
-📄 License
+3. Voice-based commands and speech-to-text input
+
+4. AI plagiarism detection for assignments
+
+**📄 License**
 This project is licensed under the MIT License.
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions are welcome!
 Please fork the repo, create a new branch, and submit a pull request.
 
-🌟 Acknowledgments
-OpenAI for NLP integration
+**🌟 Acknowledgments**
+1. OpenAI for NLP integration
 
-TensorFlow for analytics and prediction models
+2. TensorFlow for analytics and prediction models
 
-MongoDB Atlas for cloud database
+3. MongoDB Atlas for cloud database
 
-Tailwind CSS for modern UI styling
+4. Tailwind CSS for modern UI styling
 
-💬 Contact
+**💬 Contact**
 Developed by Aayush Ghimire
 📧 Email: aghimire781@gmail.com
 
