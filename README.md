@@ -104,15 +104,11 @@ Tailwind CSS for modern UI styling
 
 💬 Contact
 Developed by Aayush Ghimire
-📧 Email: [your.email@example.com]
-🌐 Portfolio: [your-website-link]
+📧 Email: aghimire781@gmail.com
 
-yaml
-Copy code
 
----
 
-Would you like me to make this README **more minimal and professional-looking** (e.g., suitable for a public GitHub project showcase), or keep it **detailed like documentation** for team use?
+
 
 
 
