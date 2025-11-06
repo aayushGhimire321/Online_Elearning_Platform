@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <h2>Welcome to the Online Learning Platform</h2>
-      <Button>Hellow world</Button>
+      <Button>Hello world</Button>
       <UserButton />
     </div>
   );
