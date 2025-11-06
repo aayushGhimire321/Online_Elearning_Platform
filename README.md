@@ -80,13 +80,11 @@ Open http://localhost:3000 in your browser.
 
 
 **🧠 Future Enhancements**
-1. Real-time video lectures with AI-assisted note summaries
+   1. Real-time video lectures with AI-assisted note summaries
+   2. Emotion recognition for adaptive teaching
+   3. Voice-based commands and speech-to-text input
+   4. AI plagiarism detection for assignments
 
-2. Emotion recognition for adaptive teaching
-
-3. Voice-based commands and speech-to-text input
-
-4. AI plagiarism detection for assignments
 
 **📄 License**
 This project is licensed under the MIT License.
@@ -97,12 +95,10 @@ Please fork the repo, create a new branch, and submit a pull request.
 
 **🌟 Acknowledgments**
 1. OpenAI for NLP integration
-
 2. TensorFlow for analytics and prediction models
-
 3. MongoDB Atlas for cloud database
-
 4. Tailwind CSS for modern UI styling
+
 
 **💬 Contact**
 Developed by Aayush Ghimire
